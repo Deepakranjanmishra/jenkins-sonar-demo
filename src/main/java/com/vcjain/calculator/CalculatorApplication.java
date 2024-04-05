@@ -8,10 +8,7 @@ public class CalculatorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CalculatorApplication.class, args);
-		try{
-			int i = 0;
-		}catch(Exception e){
-		}
+		
 
 	}
 
